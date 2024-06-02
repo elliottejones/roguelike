@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Elliott/Source/Repos/game2/Content/arrow.png","C:/Users/Elliott/Source/Repos/game2/Content/bin/Windows/arrow.xnb","TextureProcessor","Texture2DContent",171,1109,0.0893777
+"C:/Users/Elliott/Source/Repos/game2/Content/bloon.png","C:/Users/Elliott/Source/Repos/game2/Content/bin/Windows/bloon.xnb","TextureProcessor","Texture2DContent",1532,20565,0.1364643
+"C:/Users/Elliott/Source/Repos/game2/Content/character.png","C:/Users/Elliott/Source/Repos/game2/Content/bin/Windows/character.xnb","TextureProcessor","Texture2DContent",1231,20565,0.0039921
+"C:/Users/Elliott/Source/Repos/game2/Content/healthbar.png","C:/Users/Elliott/Source/Repos/game2/Content/bin/Windows/healthbar.xnb","TextureProcessor","Texture2DContent",146,1109,0.0889134
+"C:/Users/Elliott/Source/Repos/game2/Content/healthbit.png","C:/Users/Elliott/Source/Repos/game2/Content/bin/Windows/healthbit.xnb","TextureProcessor","Texture2DContent",119,89,0.0029487
+"C:/Users/Elliott/Source/Repos/game2/Content/level.png","C:/Users/Elliott/Source/Repos/game2/Content/bin/Windows/level.xnb","TextureProcessor","Texture2DContent",5921505,16777301,0.3378545
